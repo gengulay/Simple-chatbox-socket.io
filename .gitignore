@@ -1,2 +1,8 @@
 
 node_modules
+<<<<<<< HEAD
+=======
+npm-debug.log
+.DS_Store
+/*.env
+>>>>>>> second commit
